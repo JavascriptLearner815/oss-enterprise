@@ -17,7 +17,7 @@
 <!-- TOC (Table of Contents) jumps -->
 
 [welcome]: CONTRIBUTING.md#Welcome
-[submitting_prs]: CONTRIBUTING.md#Submitting a pull request
+[submitting_prs]: CONTRIBUTING.md#Submitting-a-pull-request
 [resources]: CONTRIBUTING.md#Resources
 
 
