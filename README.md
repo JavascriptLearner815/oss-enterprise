@@ -9,14 +9,21 @@ It's easier to answer this question in terms of what should **not** be open sour
 1. Don't open source anything that represents core business value.  If it makes us lots of money by being closed source, don't open source it.
 2. Don't open source anything that is specific to internal processes. If it won't be useful to anyone that doesn't work here, don't open source it.
 3. Don't open source anything you can't commit to maintaining long-term. Some projects are inherently difficult to maintain. If you don't want to spend time accepting contributions and working with the open source community, don't open source it.
+4. Don't open source anything that you don't want contributors to know about, especially if it contains sensitive data.
 
 ## Open Source Maintainer Expectations
 
 Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
 
+## About This Repository
+
+This repository is meant to guide you for making an open source project in this organization.
+
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+
+I am the owner of the organization, so I own the code. You are the creator of that new code, not the owner.
 
 ## License
 
