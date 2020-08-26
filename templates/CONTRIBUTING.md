@@ -17,11 +17,15 @@
 <!-- TOC (Table of Contents) jumps -->
 
 [welcome]: CONTRIBUTING.md#Welcome
+[submitting_prs]: CONTRIBUTING.md#Submitting a pull request
+[resources]: CONTRIBUTING.md#Resources
 
 
 ## Table of Contents
 
 - [Welcome][welcome]
+- [Submitting a pull request][submitting_prs]
+- [Resources][resources]
 
 
 ## Welcome
