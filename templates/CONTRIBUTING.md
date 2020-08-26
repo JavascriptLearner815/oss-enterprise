@@ -13,6 +13,7 @@
 [enforcement-policy]: ENFORCEMENT_POLICY.md
 [reporting]: REPORTING.md
 [representation]: REPRESENTATION.md
+[git]: https://git-scm.com/downloads
 
 <!-- TOC (Table of Contents) jumps -->
 
@@ -36,12 +37,12 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 ## Submitting a pull request
 
-1. [Fork][fork] and clone the repository
-1. Create a new branch: `git checkout -b my-branch-name`
-1. Make your change and remember to add tests
-1. Build the project locally and run local tests
-1. Push to your fork and [submit a pull request][pr]
-1. Pat your self on the back and wait for your pull request to be reviewed and merged.
+0. [Fork][fork] and clone the repository
+0. Create a new branch: `git checkout -b my-branch-name`
+0. Make your change and remember to add tests
+0. Build the project locally and run local tests
+0. Push to your fork and [submit a pull request][pr]
+0. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
