@@ -23,7 +23,7 @@ This repository is meant to guide you for making an open source project in this 
 
 #### Who owns the code I contribute to open source projects?
 
-I am the owner of the organization, so I own the code. You are the creator of that new code, not the owner.
+JavascriptLearner815 owns the organization, code, and projects. You are the creator of the changes you make.
 
 ## License
 
