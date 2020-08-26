@@ -25,6 +25,10 @@ This repository is meant to guide you for making an open source project in this 
 
 JavascriptLearner815 owns the organization, code, and projects. You are the creator of the changes you make.
 
+#### Who can I contact?
+
+[Read here](docs/contacting-us.md) to learn how to contact us in the best way possible.
+
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
