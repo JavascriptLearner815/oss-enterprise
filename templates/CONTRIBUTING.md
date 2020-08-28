@@ -33,7 +33,7 @@
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
-Please note that this project is released with a [Efficiency Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+Please note that this project is released with an [Efficiency Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
 ## Submitting a pull request
 
