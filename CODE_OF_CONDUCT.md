@@ -22,5 +22,5 @@ Relatiation is not allowed. Please go [here][reporting] to learn how to report t
 - Sexual images or language and unwelcome sexual attention/advances
 - Publishing or sending others' private information, like an address or age, without their explicit permission without **any** type of forcing them
 - Trolling
-- Anything you wouldn't show in a formal setting, like in front of your boss or teacher (NSFW)
 - Cussing
+- Anything you wouldn't show in a formal setting, like in front of your boss or teacher (NSFW)
