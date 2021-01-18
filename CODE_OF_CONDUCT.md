@@ -24,3 +24,5 @@ Retaliation is not allowed. Please go [here][reporting] to learn how to report t
 - Trolling
 - Cussing
 - Anything you wouldn't show in a formal setting, like in front of your boss or teacher (NSFW)
+## Reporting
+Any unacceptable behavior should be reported as follows, and retaliation will result in both parties being punished in the ways shown in the proceeding subsection below.
