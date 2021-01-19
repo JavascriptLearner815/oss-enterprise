@@ -1,0 +1,19 @@
+requestInfoReplyComment:
+ - Ah no! young blade! That was a trifle short!
+ - Tell me more!
+ - I am sure you can be more effusive
+
+requestInfoLabelToAdd: needs-more-info
+
+checkIssueTemplate: true
+
+checkPullRequestTemplate: true
+
+requestInfoOn:
+  pullRequest: true
+  issue: true
+
+requestInfoUserstoExclude:
+  - JavascriptLearner815
+  - timmy61109
+  
