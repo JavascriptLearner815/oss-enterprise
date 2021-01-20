@@ -1,6 +1,6 @@
 [contributing]: CONTRIBUTING.md
 [code-of-conduct]: https://github.com/JavascriptLearner815/oss-enterprise/blob/master/CODE_OF_CONDUCT.md
-[reporting]: https://github.com/JavascriptLearner815/oss-enterprise/blob/master/CODE_OF_CONDUCT.md#Reporting
+[reporting]: https://github.com/JavascriptLearner815/oss-enterprise/blob/master/CODE_OF_CONDUCT.md#reporting
 
 # Efficiency Code of Conduct
 ## Pledge 
