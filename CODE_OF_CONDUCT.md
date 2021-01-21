@@ -27,9 +27,9 @@ Retaliation is not allowed. Please go [here][reporting] to learn how to report t
 - Anything you wouldn't show in a formal setting, like in front of your boss or teacher (NSFW)
 - Derogatory "jokes" (including threatening to violate these guidelines but not actually/quasi-threatening)
 ## Reporting
-Any unacceptable behavior should be reported as follows, and retaliation will result in both parties being punished in the ways shown in the proceeding subsection below.
+Any unacceptable behavior should be reported as follows, and retaliation will result in both parties being punished in the ways shown in the proceeding section after this one.
 *These specifications for reporting are here for a reason and must be added to your report. If you don't, we might reject action on the report until we hear more from you.*
-**If you're not a maintainer or above:**
+**If you aren't a maintainer or above:**
 Email as aforementioned. Some recommendations are below, along with a template for you to use.
 - Explain the problem in professional words, not just vaguely because you know what happened. Otherwise, your report will probably leave the perpetrator unscathed.
 - Don't go astray from what you're reporting. Linking a billion other links to your fancy websites or saying stuff like "LOL" or "Blah, blah, blah" doesn't help anyone review your report.
@@ -55,3 +55,6 @@ Email as aforementioned. Some recommendations are below, along with a template f
   Additional information:
   (EX: Source: https://github.com/efficiency-org/some-efficient-project/pulls/891.)
 </details>
+**If you ARE a maintainer or above:**
+Report the issue to the Slack instance **immediately**. If you are a part of @efficiency-org/report-reviewers, also review any reports that have been submitted. Ask for assistance from @efficiency-org/communications-and-contributing-department if necessary, even if you're a part of it to recruit more help! Finally, take action as necessary.
+## Enforcement
