@@ -16,7 +16,8 @@ Retaliation is not allowed. Please go [here][reporting] to learn how to report t
 - Communicating in a friendly manner
 - Focusing on the project 
 - Creating issues and pull requests 
-- Showing empathy towards other contributors
+- Showing empathy toward other contributors
+- Reminding others of these guidelines and other rules
 ## Unacceptable Behavior
 - Harassment of others whether in public or private for any reason
 - Sexual images or language and unwelcome sexual attention/advances
@@ -24,5 +25,31 @@ Retaliation is not allowed. Please go [here][reporting] to learn how to report t
 - Trolling
 - Cussing
 - Anything you wouldn't show in a formal setting, like in front of your boss or teacher (NSFW)
+- Derogatory "jokes" (including threatening to violate these guidelines but not actually/quasi-threatening)
 ## Reporting
 Any unacceptable behavior should be reported as follows, and retaliation will result in both parties being punished in the ways shown in the proceeding subsection below.
+*These specifications for reporting are here for a reason and must be added to your report. If you don't, we might reject action on the report until we hear more from you.*
+**If you're not a maintainer or above:**
+Email as aforementioned. Some recommendations are below, along with a template for you to use.
+- Explain the problem in professional words, not just vaguely because you know what happened. Otherwise, your report will probably leave the perpetrator unscathed.
+- Don't go astray from what you're reporting. Linking a billion other links to your fancy websites or saying stuff like "LOL" or "Blah, blah, blah" doesn't help anyone review your report.
+- Don't act as if someone not in @efficiency-org/communications-and-contributing-department could possibly review your report morally and without violating our guidelines.
+- Don't be direct or derogatory. This includes stuff like "You better not be dilatory this time!" or "Hey you, one of those idiots reading my report!"; obviously.
+- Don't just assume stuff or just answer one inane question. Write it lengthy! We can still read it; organizations work like this!
+- We're not officially copyrighted. Don't try looking for our physical company establishment. Just, don't, please.
+- If you're stuck, just use the template below!
+- If you act derogatory to your perpetrator, verdict says, you'll be punished as well.
+- GitHub is not a lawyer, and we aren't, either. We're just an organization via GitHub!
+<details>
+  <summary>Template</summary>
+  My problem:
+  (EX: https://github.com/SomeGitHubUser spread spamming and was derogatory. Then, they just swore and didn't evoke themself.)
+  What I've tried:
+  (EX: Warning them about violating the guidelines, but they just proceeded more aggressively. Trying to tone down the heated violation didn't have any avail, either.)
+  Don't fill this out:
+  
+  I didn't fill that out:
+  (EX: Yes, of course! I oblige!)
+  Additional information:
+  (EX: Source: https://github.com/efficiency-org/some-efficient-project/pulls/891.)
+</details>
