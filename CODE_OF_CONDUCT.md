@@ -46,7 +46,7 @@ Email as aforementioned. Some recommendations are below, along with a template f
   My problem:
   (EX: https://github.com/SomeGitHubUser spread spamming and was derogatory. Then, they just swore and didn't evoke themself.)
   What I've tried:
-  (EX: Warning them about violating the guidelines, but they just preceded more aggressively. Trying to tone down the heated violation didn't have any avail, either.)
+  (EX: Warning them about violating the guidelines, but they just proceeded more aggressively. Trying to tone down the heated violation didn't have any avail, either.)
   What you can do:
   (EX: Try assessing the problem, perhaps punishing them if the perpetrating proceeds.)
   Don't fill this out:
