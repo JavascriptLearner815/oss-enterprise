@@ -27,7 +27,7 @@ Retaliation is not allowed. Please go [here][reporting] to learn how to report t
 - Anything you wouldn't show in a formal setting, like in front of your boss or teacher (NSFW)
 - Derogatory "jokes" (including threatening to violate these guidelines but not actually/quasi-threatening)
 ## Reporting
-Any unacceptable behavior should be reported as follows, and retaliation will result in both parties being punished in the ways shown in the proceeding section after this one.
+Any unacceptable behavior should be reported as follows, and retaliation will result in both parties being punished in the ways shown in the preceding section after this one.
 *These specifications for reporting are here for a reason and must be added to your report. If you don't, we might reject action on the report until we hear more from you.*
 **If you aren't a maintainer or above:**
 Email as aforementioned. Some recommendations are below, along with a template for you to use.
@@ -40,12 +40,13 @@ Email as aforementioned. Some recommendations are below, along with a template f
 - If you're stuck, just use the template below!
 - If you act derogatory to your perpetrator, verdict says, you'll be punished as well.
 - GitHub is not a lawyer, and we aren't, either. We're just an organization via GitHub!
+- Please don't close your report - you should check it in case we prompt you. We urgently value your report!
 <details>
   <summary>Template</summary>
   My problem:
   (EX: https://github.com/SomeGitHubUser spread spamming and was derogatory. Then, they just swore and didn't evoke themself.)
   What I've tried:
-  (EX: Warning them about violating the guidelines, but they just proceeded more aggressively. Trying to tone down the heated violation didn't have any avail, either.)
+  (EX: Warning them about violating the guidelines, but they just preceded more aggressively. Trying to tone down the heated violation didn't have any avail, either.)
   What you can do:
   (EX: Try assessing the problem, perhaps punishing them if the perpetrating proceeds.)
   Don't fill this out:
@@ -58,3 +59,6 @@ Email as aforementioned. Some recommendations are below, along with a template f
 **If you ARE a maintainer or above:**
 Report the issue to the Slack instance **immediately**. If you are a part of @efficiency-org/report-reviewers, also review any reports that have been submitted. Ask for assistance from @efficiency-org/communications-and-contributing-department if necessary, even if you're a part of it to recruit more help! Finally, take action as necessary.
 ## Enforcement
+**For reports:**
+If a user isn't mentioned in the "My problem" section, we will immediately respond with a prompt for more information. Please respond to this as quickly as you can.
+<!-- etc. -->
