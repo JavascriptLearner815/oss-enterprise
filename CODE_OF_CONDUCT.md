@@ -61,4 +61,10 @@ Report the issue to the Slack instance **immediately**. If you are a part of @ef
 ## Enforcement
 **For reports:**
 If a user isn't mentioned in the "My problem" section, we will immediately respond with a prompt for more information. Please respond to this as quickly as you can.
-<!-- etc. -->
+It will be the same for everything else.
+If you did something wrong with "Don't fill this out" or "I didn't fill that out", we will respond to you warning you to oblige to us. You'll never be punished for this, but it's a good note to have.
+Here are our enforcement levels:
+- Level 1: Minor first offense, minor (misorganizing, mentioning one or two more times than preferred, etc.), accidents, etc.: Warning via reply
+- Level 2: Posting a few posts with ALL CAPS, using potentially sensitive words (e.g. "hate", "love", "date", etc.): Warning via reply & edit
+- Level 3: Polictical or unsettling terms, hate speech, slurs, discrimination, swearing, etc.: Warning via reply & delete
+- Level 4: Spamming, super mass-pinging, postfarming, lots of low-effort postings, violations of license/TOSes, etc.: Warning via reply, delete, & block from organization
