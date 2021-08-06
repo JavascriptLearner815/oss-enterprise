@@ -66,5 +66,5 @@ If you did something wrong with "Don't fill this out" or "I didn't fill that out
 Here are our enforcement levels:
 - Level 1: Minor first offense, minor (misorganizing, mentioning one or two more times than preferred, etc.), accidents, etc.: Warning via reply
 - Level 2: Posting a few posts with ALL CAPS, using potentially sensitive words (e.g. "hate", "love", "date", etc.): Warning via reply & edit
-- Level 3: Polictical or unsettling terms, hate speech, slurs, discrimination, swearing, etc.: Warning via reply & delete
-- Level 4: Spamming, super mass-pinging, postfarming, lots of low-effort postings, violations of license/TOSes, etc.: Warning via reply, delete, & block from organization
+- Level 3: Polictical or unsettling terms, hate speech, slurs, discrimination, swearing, etc.: Warning via reply, delete, & demotion
+- Level 4: Spamming, super mass-pinging, postfarming, lots of low-effort postings, violations of license/TOSes, etc.: Warning via reply, delete, demotion, & block from organization
